@@ -1,0 +1,21 @@
+Item : Fit Joggers
+Price : 330.0
+Colour : Black
+Size : 36
+Discount : 5.0%
+New Price : 313.5
+
+Item : Floral Printed Skirt
+Price : 350.0
+Colour : Grey
+Size : M
+Discount : 8.0%
+New Price : 322.0
+
+Item : Plane Cotton Night Suit
+Price : 450.0
+Colour : Red
+Size : 10Y-12Y
+Discount : 5.0%
+New Price : 427.5
+
